@@ -1,0 +1,14 @@
+Briefly explain the difference between Early and Late Binding with examples.
+
+Answer: when the type of object is decided during the compile time by the compiler is known as early binding.
+While when the type of object is decided during the run time the it is called as late bimnding.
+
+for example.
+
+class A {
+
+	
+}
+
+
+
